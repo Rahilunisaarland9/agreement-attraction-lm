@@ -1,0 +1,7 @@
+construction,model,rows,items,conditions,duplicates,missing_values,attention_layer,heads
+ORC,GPT-2,384,48,8,0,0,5,12
+ORC,GPT-2-large,384,48,8,0,0,16,20
+ORC,BLOOM-560m,384,48,8,0,0,11,16
+PP,GPT-2,192,24,8,0,0,5,12
+PP,GPT-2-large,192,24,8,0,0,16,20
+PP,BLOOM-560m,192,24,8,0,0,11,16

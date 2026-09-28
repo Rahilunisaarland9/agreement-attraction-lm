@@ -1,0 +1,10 @@
+# Replace the versions with the ones from your environment:
+#   pip freeze | grep -iE "^(torch|transformers|tokenizers|pandas|numpy|scipy|statsmodels|matplotlib|tqdm)=="
+torch>=2.0
+transformers>=4.40
+pandas>=2.0
+numpy>=1.24
+scipy>=1.11
+statsmodels>=0.14
+matplotlib>=3.7
+tqdm>=4.65
