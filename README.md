@@ -1,6 +1,6 @@
 # Attention entropy vs. surprisal as signatures of agreement attraction in language models
 
-Final project for the seminar *LLMs as models of human sentence processing* (SoSe 2026).
+Final project for the seminar "LLMs as models of human sentence processing" (SoSe 2026).
 
 **Author:** Rahil Dasadia
 
