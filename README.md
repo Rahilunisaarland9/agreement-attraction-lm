@@ -158,6 +158,17 @@ results/
 figures/
 ```
 
+## Figures
+
+Made by `scripts/make_figures.py` from `results/analysis/paired_tests.csv`.
+
+| File | Shows |
+|---|---|
+| `fig1_focal_effects.png` | Focal attraction effect (plural − singular attractor; singular subject, ungrammatical verb) per model with 95% CI. Top row ORC, bottom row PP; left surprisal (attraction = negative), right attention entropy (attraction = positive). A hollow marker means the CI includes zero. |
+| `fig2_attractor_effects.png` | Heat map of the effect size dz in all four subject × grammaticality cells, for every model and measure. Red/blue = positive/negative; * = p < .05 (uncorrected). Humans show an effect only in the first column (singular subject, ungrammatical). |
+| `poster_fig1_…`, `poster_fig2_…` | The same figures with larger fonts for the A0 poster (`--poster`). |
+| `poster_col_fig1_…`, `poster_col_fig2_…` | Versions sized for a narrow poster column, with the heat maps stacked (`--poster --column`). |
+
 ## Output files
 
 ### `results/model_outputs/<model>_<construction>.csv`
