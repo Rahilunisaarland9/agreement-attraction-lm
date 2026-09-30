@@ -2,7 +2,7 @@
 
 Final project for the seminar *LLMs as models of human sentence processing* (SoSe 2026).
 
-**Author:** _your name_
+**Author:** Rahil Dasadia
 
 ## Research question
 
